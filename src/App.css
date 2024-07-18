@@ -2,5 +2,9 @@
    text-align: justify;
 }
 .ht-75{
-   height: 400px;
+   height: 500px;
+}
+
+.w-18rem{
+   width: 18rem;
 }

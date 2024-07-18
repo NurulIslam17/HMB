@@ -1,7 +1,8 @@
 import React from "react";
 import '../App.css';
-import img1 from '../asset/image/post-item1.jpg';
-import img2 from '../asset/image/post-item2.jpg';
+import img1 from '../asset/image/hotel (1).jpg';
+import img2 from '../asset/image/hotel (2).jpg';
+import img3 from '../asset/image/hotel-4.jpg';
 
 function Carouse() {
   return (
@@ -20,6 +21,9 @@ function Carouse() {
                 </div>
                 <div className="carousel-item">
                   <img src={img2} className="d-block w-100 ht-75" alt="..." />
+                </div>
+                <div className="carousel-item">
+                  <img src={img3} className="d-block w-100 ht-75" alt="..." />
                 </div>
 
               </div>

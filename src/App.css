@@ -8,3 +8,9 @@
 .w-18rem{
    width: 18rem;
 }
+.img-150{
+   height: 150px;
+}
+.bg-red{
+   background-color: rgb(255, 15, 15);
+}

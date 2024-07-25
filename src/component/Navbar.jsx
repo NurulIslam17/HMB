@@ -33,7 +33,7 @@ function Navbar() {
 
 
               <li className="nav-item active">
-                <Link className="nav-link" to="/">
+                <Link className="nav-link" to="/my-booking">
                   My Booking
                 </Link>
               </li>
@@ -47,6 +47,12 @@ function Navbar() {
               <li className="nav-item active">
                 <Link className="nav-link" to="/register">
                   Register
+                </Link>
+              </li>
+
+              <li className="nav-item active">
+                <Link className="nav-link" to="/dashboard">
+                  <strong>User</strong>
                 </Link>
               </li>
 

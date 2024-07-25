@@ -4,6 +4,9 @@
 .ht-75{
    height: 500px;
 }
+.ht-125{
+   height: 250px;
+}
 
 .w-18rem{
    width: 18rem;
@@ -13,4 +16,13 @@
 }
 .bg-red{
    background-color: rgb(255, 15, 15);
+}
+.bg-green1{
+   background-color: green;
+}
+.bg-green2{
+   background-color: rgb(17, 216, 17);
+}
+.bg-grey1{
+   background-color: rgb(207, 207, 207);
 }
